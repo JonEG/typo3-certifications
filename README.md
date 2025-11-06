@@ -1,3 +1,3 @@
-# TYPO3 Certifications Study Repository
+# TYPO3 CMS Certified Developer (v13)
 
-This branch provides the base structure.
+This branch contains the study syllabus and notes.

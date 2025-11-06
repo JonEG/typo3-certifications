@@ -1,2 +1,2 @@
 ## Contribution Guidelines
-Ensure licensing compliance.
+Follow licensing rules.
