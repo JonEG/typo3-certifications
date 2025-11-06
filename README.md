@@ -9,3 +9,5 @@ This Syllabus is based on the public SkillSet for TYPO3 version 13 LTS, created 
 [SkillSet Link - CMS Certified Developer 13 LTS](https://my.skilldisplay.eu/en/skillset/1096)
 
 [SkillSet Link - TCCD Study Guide](https://my.skilldisplay.eu/en/organizations/163/public)
+
+### [01 Programming Basics](./syllabus/01-programming-basics.md)

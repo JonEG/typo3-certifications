@@ -1,5 +1,7 @@
 # 01 Programming Basics
 
+→ [Back to Readme](../README.md)
+
 ## Docblocks in PHP
 
 → [See Notes](../notes/01-programming-basics/dockblocks-in-php.md)
@@ -15,7 +17,7 @@ Goals:
 
 ## PHP basics and variables
 
-→ [See Notes](../notes/01-programming-basics.md#php-basics-and-variables)
+→ [See Notes](../notes/01-programming-basics/php-basics-and-variables.md)
 
 PHP basics and using variables in PHP.
 
@@ -79,3 +81,6 @@ Goals:
 
 ---
 *Attribution: Based on or inspired by official TYPO3 Documentation (<https://docs.typo3.org> & <https://typo3.com>), licensed under CC BY-SA 4.0.*
+
+---
+→ [Back to Readme](../README.md)
