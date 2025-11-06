@@ -1,5 +1,7 @@
 # DocBlocks in PHP
 
+→ [Back to Syllabus](../../syllabus/01-programming-basics.md)
+
 ## What is a DocBlock?
 
 A DocBlock is a special PHP comment used for **documentation**, **type hinting**, and **annotations**.
@@ -102,3 +104,6 @@ class TranslationService implements SingletonInterface
 
 * [PHPDoc Manual](https://docs.phpdoc.org/)
 * [TYPO3 v13 Documentation](https://docs.typo3.org/)
+
+---
+→ [Back to Syllabus](../../syllabus/01-programming-basics.md)
