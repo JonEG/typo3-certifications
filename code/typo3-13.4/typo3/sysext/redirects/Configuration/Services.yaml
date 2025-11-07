@@ -1,0 +1,20 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  TYPO3\CMS\Redirects\:
+    resource: '../Classes/*'
+
+  extension.configuration.redirects:
+    class: 'array'
+    factory:
+      - '@TYPO3\CMS\Core\Configuration\ExtensionConfiguration'
+      - 'get'
+    arguments:
+      - 'redirects'
+
+  TYPO3\CMS\Redirects\Configuration\CheckIntegrityConfiguration:
+    arguments:
+      $extensionConfiguration: '@extension.configuration.redirects'
