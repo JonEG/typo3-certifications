@@ -102,10 +102,12 @@ class TranslationService implements SingletonInterface
 
 ---
 
-**References:**
+**References and more on this topic:**
 
-* [PHPDoc Manual](https://docs.phpdoc.org/)
-* [TYPO3 v13 Documentation](https://docs.typo3.org/)
+* [TYPO3 Explained 13.4 Using phpDoc](https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/CodingGuidelines/CglPhp/UsingPhpdoc.html#using-phpdoc)
+* [PHPDoc on Wikipedia](https://en.wikipedia.org/wiki/PHPDoc)
+* [phpDocumentor manual Basic Syntax](https://docs.phpdoc.org/3.0/guide/references/phpdoc/basic-syntax.html)
+* [phpDocumentor manual: what is a DocBlock?](https://docs.phpdoc.org/3.0/guide/getting-started/what-is-a-docblock.html)
 
 ---
 → [Back to Syllabus](../../syllabus/01-programming-basics.md#dockblocks-in-php)
