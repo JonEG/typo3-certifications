@@ -10,4 +10,10 @@ This Syllabus is based on the public SkillSet for TYPO3 version 13 LTS, created 
 
 [SkillSet Link - TCCD Study Guide](https://my.skilldisplay.eu/en/organizations/163/public)
 
-### [01 Programming Basics](./syllabus/01-programming-basics.md)
+### Index
+
+- #### [01 Programming Basics](./syllabus/01-programming-basics.md)
+
+## Code
+
+Here you will find the [TYPO3 13 Github repository](https://github.com/TYPO3/typo3/blob/13.4/)
