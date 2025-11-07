@@ -1,6 +1,6 @@
 # PHP Basics and Variables
 
-→ [Back to Syllabus](../../syllabus/01-programming-basics.md)
+→ [Back to Syllabus](../../syllabus/01-programming-basics.md#php-basics-and-variables)
 
 ## What is PHP?
 
@@ -104,4 +104,4 @@ $tags = ["php", "typo3"]; // array
 * [TYPO3 v13 Core API](https://docs.typo3.org/)
 
 ---
-→ [Back to Syllabus](../../syllabus/01-programming-basics.md)
+→ [Back to Syllabus](../../syllabus/01-programming-basics.md#php-basics-and-variables)

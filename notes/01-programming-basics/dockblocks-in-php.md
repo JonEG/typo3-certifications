@@ -1,6 +1,6 @@
 # DocBlocks in PHP
 
-→ [Back to Syllabus](../../syllabus/01-programming-basics.md)
+→ [Back to Syllabus](../../syllabus/01-programming-basics.md#dockblocks-in-php)
 
 ## What is a DocBlock?
 
@@ -108,4 +108,4 @@ class TranslationService implements SingletonInterface
 * [TYPO3 v13 Documentation](https://docs.typo3.org/)
 
 ---
-→ [Back to Syllabus](../../syllabus/01-programming-basics.md)
+→ [Back to Syllabus](../../syllabus/01-programming-basics.md#dockblocks-in-php)
