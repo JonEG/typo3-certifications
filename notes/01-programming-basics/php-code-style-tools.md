@@ -101,5 +101,10 @@ code_style:
 - Ensure CI rejects formatting violations.
 - Align your formatting rules with **team/project standards**.
 
+**References and more on this topic:**
+
+- [GitHub: PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+- [PHP Coding Standards Fixer Website](https://cs.symfony.com/)
+
 ---
 → [Back to Syllabus](../../syllabus/01-programming-basics.md#php-code-style-tools)
