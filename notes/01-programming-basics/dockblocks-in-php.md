@@ -71,7 +71,9 @@ It sits above classes, functions, properties, or methods.
 
 ## Quick Example from TYPO3 13.4
 
- Source: [TYPO3 Github Repository](https://github.com/TYPO3/typo3/blob/13.4/typo3/sysext/form/Classes/Service/TranslationService.php)
+ Source code here: [TYPO3 Github Repository](https://github.com/TYPO3/typo3/blob/13.4/typo3/sysext/form/Classes/Service/TranslationService.php)
+
+ Find it locally here: [Code link](../../code/typo3-13.4/typo3/sysext/form/Classes/Service/TranslationService.php)
 
 ```php
 class TranslationService implements SingletonInterface
