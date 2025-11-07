@@ -31,7 +31,7 @@ Goals:
 
 ## PHP Code Style Tools
 
-→ [See Notes](../notes/01-programming-basics.md#php-code-style-tools)
+→ [See Notes](../notes/01-programming-basics/php-code-style-tools.md)
 
 This skill covers tools for automatic code formatting in PHP.
 
