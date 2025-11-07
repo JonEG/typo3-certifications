@@ -17,6 +17,9 @@ Goals:
 
 ## PHP basics and variables
 
+> [!WARNING]
+> Removed from TYPO3 v13 Official Syllable
+
 → [See Notes](../notes/01-programming-basics/php-basics-and-variables.md)
 
 PHP basics and using variables in PHP.

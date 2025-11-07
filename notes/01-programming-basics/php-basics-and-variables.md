@@ -1,5 +1,8 @@
 # PHP Basics and Variables
 
+> [!WARNING]
+> Removed from TYPO3 v13 Official Syllable
+
 → [Back to Syllabus](../../syllabus/01-programming-basics.md#php-basics-and-variables)
 
 ## What is PHP?
@@ -98,7 +101,7 @@ $tags = ["php", "typo3"]; // array
 
 ---
 
-**References:**
+**References and more on this topic:**
 
 * [PHP Manual](https://www.php.net/manual/en/)
 * [TYPO3 v13 Core API](https://docs.typo3.org/)
