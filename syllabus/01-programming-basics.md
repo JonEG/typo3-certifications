@@ -43,7 +43,7 @@ Goals:
 
 ## PHP Standards Recommendations
 
-→ [See Notes](../notes/01-programming-basics.md#php-standards-recommendations)
+→ [See Notes](../notes/01-programming-basics/php-standards-recommendations.md)
 
 Standards recommendations for PHP programming and more.
 
