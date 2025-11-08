@@ -1,19 +1,21 @@
 # TYPO3 CMS Certified Developer (v13)
 
-This branch contains the study syllabus and notes.
+## Index
 
-## Syllabus
-
-This Syllabus is based on the public SkillSet for TYPO3 version 13 LTS, created by the TYPO3 Education Committee and TYPO3 GmbH. As well as the public SkillSet created by Michael Schams.
+This index is based on the public SkillSet for TYPO3 version 13 LTS, created by the TYPO3 Education Committee and TYPO3 GmbH.
 
 [SkillSet Link - CMS Certified Developer 13 LTS](https://my.skilldisplay.eu/en/skillset/1096)
 
-[SkillSet Link - TCCD Study Guide](https://my.skilldisplay.eu/en/organizations/163/public)
+### 01 TYPO3 Concepts
 
-### Index
+### 02 Software Development Standards
 
-- #### [01 Programming Basics](./syllabus/01-programming-basics.md)
+1. #### [DocBlocks in PHP](notes/02-software-development-standards/dockblocks-in-php.md)
 
-## Code
+### 15 Software Quality
 
-Here you will find the [TYPO3 13 Github repository](https://github.com/TYPO3/typo3/blob/13.4/)
+1. #### [PHP Code Style Tools](notes/15-software-quality/php-code-style-tools.md)
+
+## Under the Code folder
+
+You will find a copy of the [TYPO3 13 Github repository](https://github.com/TYPO3/typo3/blob/13.4/)
