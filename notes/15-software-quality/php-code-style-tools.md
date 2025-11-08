@@ -1,6 +1,6 @@
 # PHP Code Style Tools
 
-→ [Back to Readme](../../README.md)
+→ [Back to Readme](../../README.md#15-software-quality)
 
 This skill covers tools for automatic code formatting in PHP.
 
@@ -115,4 +115,4 @@ code_style:
 - [PHP Coding Standards Fixer Website](https://cs.symfony.com/)
 
 ---
-→ [Back to Readme](../../README.md)
+→ [Back to Readme](../../README.md#15-software-quality)

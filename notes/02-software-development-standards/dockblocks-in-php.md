@@ -1,6 +1,6 @@
 # DocBlocks in PHP
 
-→ [Back to Readme](../../README.md)
+→ [Back to Readme](../../README.md#02-software-development-standards)
 
 This skill covers knowledge of the syntax and general purpose of documentation blocks, and the most
 often used annotations.
@@ -117,4 +117,4 @@ class TranslationService implements SingletonInterface
 - [phpDocumentor manual: what is a DocBlock?](https://docs.phpdoc.org/3.0/guide/getting-started/what-is-a-docblock.html)
 
 ---
-→ [Back to Readme](../../README.md)
+→ [Back to Readme](../../README.md#02-software-development-standards)
