@@ -1,0 +1,12 @@
+# Session Handling
+
+→ [Back to Readme](../../README.md#notes)
+
+This skill covers Session Handling in TYPO3, both for backend and frontend. This includes knowledge about the session lifecycle and adding, reading, and removing session data.
+
+Goals:
+
+
+---
+
+→ [Back to Readme](../../README.md#notes)

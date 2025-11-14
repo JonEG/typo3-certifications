@@ -1,0 +1,12 @@
+# Key/Value Storage
+
+→ [Back to Readme](../../README.md#notes)
+
+Key/value storages are a simple and efficient way to store and retrieve data pairs, where each unique key is associated with a specific value. This method is particularly useful for handling configuration settings, caching, or other scenarios where fast and flexible data access is needed.
+
+Goals:
+
+
+---
+
+→ [Back to Readme](../../README.md#notes)
