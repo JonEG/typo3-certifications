@@ -10,7 +10,7 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 ### 02 Software Development Standards
 
-1. #### [DocBlocks in PHP](notes/02-software-development-standards/dockblocks-in-php.md)
+1. #### [DocBlocks in PHP](notes/02-software-development-standards/docblocks-in-php.md)
 
 ### 03 General Extension Architecture
 
