@@ -6,7 +6,8 @@ This skill covers the Core's caching framework. It shows how to use existings ca
 
 Goals:
 
-- [ ] I can:
+- [ ] I can: use existing caches
+- [ ] register and use custom caches decide which types of cache frontends and backends to use for which purpose
 
 ---
 

@@ -9,6 +9,7 @@ Goals:
 - [ ] I can configure the Mail API for different contexts.
 - [ ] I can create new emails in my extensions and send them through the Mail API.
 - [ ] I know how to create Fluid-based emails.
+- [ ] I am familiar with the pros and cons of the different transport methods.
 
 ---
 

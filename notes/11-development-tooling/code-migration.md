@@ -7,7 +7,7 @@ This skill covers concepts related to automated code migrations. They help with 
 Goals:
 
 - [ ] I know existing frameworks for automated code migrations, like (TYPO3) Rector and Fractor.
-- [ ] I know about the advantages of applying code migrations during upgrades and regular
+- [ ] I know about the advantages of applying code migrations during upgrades and regular development work.
 
 ---
 

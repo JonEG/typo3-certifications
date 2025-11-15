@@ -6,8 +6,7 @@ This skill covers the purpose of the TYPO3 Ecosystem & Brand. It encompasses the
 
 Goals:
 
-- [ ] I know the components of the TYPO3 ecosystem, including the community, extensions, and
-- [ ] resources.
+- [ ] I know the components of the TYPO3 ecosystem, including the community, extensions, and resources.
 - [ ] I know about the TYPO3 brand, its values, and its role in shaping the CMS's identity.
 - [ ] I know how to engage with and contribute to the TYPO3 community and ecosystem.
 

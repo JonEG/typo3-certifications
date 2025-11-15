@@ -8,7 +8,7 @@ Goals:
 
 - [ ] I know the purpose and functionality of cHash in TYPO3.
 - [ ] I know how cHash helps manage cache entries based on URL parameters and variations.
-- [ ] I know how to implement and troubleshoot cHash to ensure accurate and efficient content
+- [ ] I know how to implement and troubleshoot cHash to ensure accurate and efficient content caching.
 
 ---
 

@@ -6,7 +6,9 @@ This skill covers TYPO3 Backend Modules. That is a functional component that ext
 
 Goals:
 
+- [ ] I understand the purpose and structure of Backend Modules in TYPO3.
 - [ ] I can navigate and utilize a Backend Module within the TYPO3 Backend.
+- [ ] I understand the role of Backend Modules in extending TYPO3’s functionality.
 
 ---
 

@@ -6,9 +6,9 @@ This skill covers TYPO3 Contribution. This involves participating in the develop
 
 Goals:
 
-- [ ] I know the different ways to contribute to TYPO3, including code, documentation, and community
+- [ ] I know the different ways to contribute to TYPO3, including code, documentation, and community support.
 - [ ] I know how to get involved with the TYPO3 development process and contribute effectively.
-- [ ] I know the benefits of contributing to TYPO3 and how it supports both personal growth and the
+- [ ] I know the benefits of contributing to TYPO3 and how it supports both personal growth and the TYPO3 ecosystem.
 
 ---
 

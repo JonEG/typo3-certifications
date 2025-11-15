@@ -8,6 +8,7 @@ Goals:
 
 - [ ] I can make records translatable.
 - [ ] I know how to configure translation behavior of TCA columns.
+- [ ] I am familiar with the different translation modes in relation fields (IRRE).
 
 ---
 

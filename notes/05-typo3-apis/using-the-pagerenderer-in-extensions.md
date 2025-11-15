@@ -6,7 +6,7 @@ This skill covers the PageRenderer for extension usage, a TYPO3 Core component t
 
 Goals:
 
-- [ ] I can use the PageRenderer to modify or extend CSS, JavaScript and other header information in
+- [ ] I can use the PageRenderer to modify or extend CSS, JavaScript and other header information in frontend and backend.
 
 ---
 

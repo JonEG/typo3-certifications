@@ -6,7 +6,7 @@ This skill covers the TYPO3 Request Lifecycle. Which is the process a request un
 
 Goals:
 
-- [ ] I know how TYPO3 processes a request from start to finish, including routing, controller actions,
+- [ ] I know how TYPO3 processes a request from start to finish, including routing, controller actions, and rendering.
 - [ ] I know when and how to extend or customize the request lifecycle in TYPO3 projects.
 
 ---

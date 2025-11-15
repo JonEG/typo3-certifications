@@ -7,7 +7,7 @@ This skill covers the different ways how objects can be created in TYPO3, and th
 Goals:
 
 - [ ] I know the basics of Dependency Injection in TYPO3.
-- [ ] I know when to create objects myself and when to retrieve an instance created by the
+- [ ] I know when to create objects myself and when to retrieve an instance created by the Framework.
 
 ---
 

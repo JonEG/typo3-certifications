@@ -6,6 +6,9 @@ This skill covers foundations of how the MVC pattern was implemented within Extb
 
 Goals:
 
+- [ ] Understand how Controllers work in Extbase
+- [ ] Know the views provided by Extbase
+- [ ] Understand how a view is configured in a controller
 
 ---
 

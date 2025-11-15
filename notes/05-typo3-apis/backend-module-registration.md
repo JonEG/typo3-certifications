@@ -8,7 +8,7 @@ Goals:
 
 - [ ] I know the process of registering and configuring custom backend modules in TYPO3.
 - [ ] I know how to set up module functionality and access permissions.
-- [ ] I know how to integrate custom modules into the TYPO3 backend for enhanced administrative
+- [ ] I know how to integrate custom modules into the TYPO3 backend for enhanced administrative capabilities.
 
 ---
 

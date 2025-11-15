@@ -6,8 +6,7 @@ This skill covers Versioning & Workspaces in TYPO3 which allow to manage content
 
 Goals:
 
-- [ ] I know the concepts of versioning and workspaces in TYPO3 and their roles in content
-- [ ] management.
+- [ ] I know the concepts of versioning and workspaces in TYPO3 and their roles in content management.
 - [ ] I know how custom tables are enabled for versioning and usage in workspaces.
 
 ---

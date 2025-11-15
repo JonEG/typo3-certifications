@@ -6,6 +6,7 @@ This skill covers Frontend Plugins in TYPO3 which are a content type that adds c
 
 Goals:
 
+- [ ] I understand the purpose and types of frontend plugins available in TYPO3.
 - [ ] I know how to create and configure frontend plugins to add functionalities to a site.
 
 ---

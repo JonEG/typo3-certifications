@@ -8,7 +8,7 @@ Goals:
 
 - [ ] I know the role and functionality of Upgrade Wizards in TYPO3.
 - [ ] I know how to use Upgrade Wizards to support upgrades of TYPO3 extensions.
-- [ ] I know how to iImplement and verify the changes made by Upgrade Wizards to ensure a smooth
+- [ ] I know how to iImplement and verify the changes made by Upgrade Wizards to ensure a smooth transition to newer versions.
 
 ---
 
