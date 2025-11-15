@@ -17,7 +17,7 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 ### Notes
 
 <details>
-<summary> 01 Typo3 Concepts</summary>
+<summary> 01 TYPO3 Concepts</summary>
 
 1. #### [Backend Modules](notes/01-typo3-concepts/backend-modules.md)
 
@@ -138,7 +138,7 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 </details>
 
 <details>
-<summary> 04 Core Architecture And Apis</summary>
+<summary> 04 Core Architecture And APIs</summary>
 
 1. #### [Admin Panel usage as a developer](notes/04-core-architecture-and-apis/admin-panel-usage-as-a-developer.md)
 
@@ -179,7 +179,7 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 </details>
 
 <details>
-<summary> 05 Typo3 Apis</summary>
+<summary> 05 TYPO3 APIs</summary>
 
 1. #### [Accessing FlexForm Data](notes/05-typo3-apis/accessing-flexform-data.md)
 
@@ -304,7 +304,7 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 </details>
 
 <details>
-<summary> 08 Third Party Apis</summary>
+<summary> 08 Third Party APIs</summary>
 
 1. #### [Doctrine DBAL](notes/08-third-party-apis/doctrine-dbal.md)
 
