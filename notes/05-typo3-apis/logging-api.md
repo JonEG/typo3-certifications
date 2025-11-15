@@ -1,6 +1,6 @@
 # Logging API
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#logging-api)
 
 This skill covers knowledge about the logging API provided by TYPO3.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#logging-api)

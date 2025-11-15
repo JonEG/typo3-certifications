@@ -1,6 +1,6 @@
 # Coding Standards in TYPO3
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#coding-standards-in-typo3)
 
 Knowing how to write code conforming to the coding standards used by the TYPO3 project.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#coding-standards-in-typo3)

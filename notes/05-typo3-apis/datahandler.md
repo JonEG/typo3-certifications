@@ -1,6 +1,6 @@
 # DataHandler
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#datahandler)
 
 This skill handles basic knowledge of the DataHandler, a TYPO3 Core component for processing user data. It also covers how it can be leveraged in custom developed extensions.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#datahandler)

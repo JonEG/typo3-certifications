@@ -1,6 +1,6 @@
 # User Input in PHP Code
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-input-in-php-code)
 
 Knowledge about securely processing user input in PHP code.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-input-in-php-code)

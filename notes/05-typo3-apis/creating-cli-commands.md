@@ -1,6 +1,6 @@
 # Creating CLI Commands
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#creating-cli-commands)
 
 This skill covers the creation of command-line commands for TYPO3, based on the Symfony Console component.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#creating-cli-commands)

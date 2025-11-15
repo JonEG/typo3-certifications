@@ -1,6 +1,6 @@
 # Extending site configurations
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extending-site-configurations)
 
 This skill covers custom extensions to the TYPO3 Core Site configuration module.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extending-site-configurations)

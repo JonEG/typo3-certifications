@@ -1,6 +1,6 @@
 # MetaTag API
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#metatag-api)
 
 This skill covers the MetaT ag API, which can be used to manipulate the meta tags in the head section of the generated HTML page.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#metatag-api)

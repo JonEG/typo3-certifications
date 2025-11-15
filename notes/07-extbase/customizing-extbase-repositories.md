@@ -1,6 +1,6 @@
 # Customizing Extbase Repositories
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#customizing-extbase-repositories)
 
 This skill covers implementing custom persistence functionality in Extbase.
 
@@ -14,4 +14,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#customizing-extbase-repositories)

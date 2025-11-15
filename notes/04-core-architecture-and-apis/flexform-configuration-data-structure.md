@@ -1,6 +1,6 @@
 # Flexform Configuration Data Structure
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#flexform-configuration-data-structure)
 
 How to create and configure a data structure for my plugin™s configuration.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#flexform-configuration-data-structure)

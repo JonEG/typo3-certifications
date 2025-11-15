@@ -1,6 +1,6 @@
 # Registering Backend Modules
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#registering-backend-modules)
 
 This skill covers the registration of a backend module to make it available to users.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#registering-backend-modules)

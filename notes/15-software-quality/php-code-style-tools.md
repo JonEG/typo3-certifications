@@ -1,6 +1,6 @@
 # PHP Code Style Tools
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#php-code-style-tools)
 
 This skill covers tools for automatic code formatting in PHP.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#php-code-style-tools)

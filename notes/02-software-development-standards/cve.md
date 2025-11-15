@@ -1,6 +1,6 @@
 # CVE
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#cve)
 
 This skill covers the knowledge of CVE (Common Vulnerabilities and Exposures). CVE  provides a standardized identifier for publicly known cybersecurity vulnerabilities and exposures. This system helps
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#cve)

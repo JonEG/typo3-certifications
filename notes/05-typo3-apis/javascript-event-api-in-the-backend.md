@@ -1,6 +1,6 @@
 # JavaScript Event API in the Backend
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#javascript-event-api-in-the-backend)
 
 This skill covers the JavaScript API for Events in the TYPO3 Backend, relevant for programming custom backend modules and extending existing modules.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#javascript-event-api-in-the-backend)

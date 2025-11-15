@@ -1,6 +1,6 @@
 # Extbase Persistence
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-persistence)
 
 This skill covers knowledge of how Extbase interacts with the permanent storage.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-persistence)

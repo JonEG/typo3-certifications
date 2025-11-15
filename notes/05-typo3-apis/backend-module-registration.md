@@ -1,6 +1,6 @@
 # Backend Module Registration
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#backend-module-registration)
 
 This skill covers creating and configuring custom modules for the TYPO3 backend. This process includes defining module functionality, setting up module access permissions, and integrating the module into the TYPO3 backend interface.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#backend-module-registration)

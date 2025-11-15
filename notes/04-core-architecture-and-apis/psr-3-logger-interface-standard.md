@@ -1,6 +1,6 @@
 # PSR-3: Logger Interface standard
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-3-logger-interface-standard)
 
 Knowledge about the PSR-3 logging standard for PHP.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-3-logger-interface-standard)

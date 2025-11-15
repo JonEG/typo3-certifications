@@ -1,6 +1,6 @@
 # PSR-17: HTTP Message Factories
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-17-http-message-factories)
 
 This skill covers the PSR standard for HTTP message factories and the differences to the earlier HTTP request/response standard.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-17-http-message-factories)

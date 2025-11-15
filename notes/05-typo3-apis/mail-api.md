@@ -1,6 +1,6 @@
 # Mail API
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#mail-api)
 
 This skill covers the TYPO3 Mail API, which internally uses Symfony™s Mailer and Mime component for creating and sending emails.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#mail-api)

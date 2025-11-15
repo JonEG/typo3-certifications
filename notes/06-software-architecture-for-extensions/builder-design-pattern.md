@@ -1,6 +1,6 @@
 # Builder design pattern
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#builder-design-pattern)
 
 Understanding the ﬁBuilderﬂ Design Pattern.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#builder-design-pattern)

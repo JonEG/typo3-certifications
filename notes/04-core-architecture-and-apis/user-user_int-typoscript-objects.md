@@ -1,6 +1,6 @@
 # The USER/USER_INT TypoScript objects
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-user_int-typoscript-objects)
 
 This skill covers the USER and USER_INT TypoScript objects, which are used to integrate custom code in the TYPO3 frontend rendering process.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-user_int-typoscript-objects)

@@ -1,6 +1,6 @@
 # Pagination API
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#pagination-api)
 
 This skill covers the abstraction for paginations provided by the TYPO3 Core.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#pagination-api)

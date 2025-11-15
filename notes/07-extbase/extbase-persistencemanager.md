@@ -1,6 +1,6 @@
 # Extbase PersistenceManager
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-persistencemanager)
 
 This skill covers knowdlege about the built-in PersistenceManager.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-persistencemanager)

@@ -1,6 +1,6 @@
 # XLIFF
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#xliff)
 
 This skill covers the standard XML format XLIFF (XML Localization Interchange File Format) which is used for the exchange of localization data between different software tools. It facilitates the translation and management of text within applications by providing a structured format for source and target language content.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#xliff)

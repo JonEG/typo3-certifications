@@ -1,6 +1,6 @@
 # Object Creation in TYPO3
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#object-creation-in-typo3)
 
 This skill covers the different ways how objects can be created in TYPO3, and the infrastructure TYPO3 provides for this.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#object-creation-in-typo3)

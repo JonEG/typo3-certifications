@@ -1,6 +1,6 @@
 # Session Management
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#session-management)
 
 This skill covers session management in TYPO3. Session Management involves handling user sessions to maintain state and manage user interactions across multiple page requests. This includes creating, storing, and retrieving session data to provide a consistent user experience and manage user-specific settings or actions.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#session-management)

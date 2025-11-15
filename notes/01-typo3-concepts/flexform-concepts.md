@@ -1,6 +1,6 @@
 # FlexForm Concepts
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#flexform-concepts)
 
 This skill covers basics about the concept of Flexforms and how it relates to the TCA.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#flexform-concepts)

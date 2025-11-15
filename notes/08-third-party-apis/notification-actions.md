@@ -1,6 +1,6 @@
 # Notification Actions
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#notification-actions)
 
 This skill covers knowledge about notifications as flashmessages in the backend and that they can have actions assigned to interact with the editor.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#notification-actions)

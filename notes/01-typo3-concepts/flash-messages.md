@@ -1,6 +1,6 @@
 # Flash Messages
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#flash-messages)
 
 This skill covers flash messages, a mechanism used to communicate e.g. results of an action to the user.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#flash-messages)

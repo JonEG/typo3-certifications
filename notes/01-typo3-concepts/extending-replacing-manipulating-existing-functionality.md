@@ -1,6 +1,6 @@
 # Extending/Replacing/Manipulating Existing Functionality
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extending-replacing-manipulating-existing-functionality)
 
 This skill covers knowledge about extending core and extension functionality without changing code.
 
@@ -14,4 +14,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extending-replacing-manipulating-existing-functionality)

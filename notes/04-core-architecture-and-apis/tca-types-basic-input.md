@@ -1,6 +1,6 @@
 # TCA Types for Basic Input
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tca-types-basic-input)
 
 This skill groups knowledge about TCA Types that define input possibilities.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tca-types-basic-input)

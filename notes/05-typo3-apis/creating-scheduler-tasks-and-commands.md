@@ -1,6 +1,6 @@
 # Creating Scheduler Tasks and Commands
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#creating-scheduler-tasks-and-commands)
 
 This skill covers building Scheduler tasks and commands for automating recurring tasks. Please note that using Symfony Commands is the recommended way to run code via EXT:scheduler.
 
@@ -15,4 +15,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#creating-scheduler-tasks-and-commands)

@@ -1,6 +1,6 @@
 # Using Query Restrictions
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#using-query-restrictions)
 
 How to restrict database queries.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#using-query-restrictions)

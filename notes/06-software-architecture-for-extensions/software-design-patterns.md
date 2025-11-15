@@ -1,6 +1,6 @@
 # Software Design Patterns
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#software-design-patterns)
 
 This skill covers Software Design Patterns, established solutions for repeated problems in software development.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#software-design-patterns)

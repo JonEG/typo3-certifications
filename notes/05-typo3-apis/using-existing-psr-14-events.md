@@ -1,6 +1,6 @@
 # Using existing PSR-14 events
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#using-existing-psr-14-events)
 
 This skill covers the implementation and usage of events in the TYPO3 Core.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#using-existing-psr-14-events)

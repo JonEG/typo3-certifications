@@ -1,6 +1,6 @@
 # System and TYPO3 Error Logs
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#system-and-typo3-error-logs)
 
 This skill covers the ability to locate logs provided by system components and TYPO3.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#system-and-typo3-error-logs)

@@ -1,6 +1,6 @@
 # Handling User Input
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#handling-user-input)
 
 This skill covers knowledge about possible ways to retrieve and process user input.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#handling-user-input)

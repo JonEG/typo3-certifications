@@ -1,6 +1,6 @@
 # TCA Types for record relations
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tca-types-for-record-relations)
 
 This skill covers TCA configuration options to define relations to other records.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tca-types-for-record-relations)

@@ -1,6 +1,6 @@
 # PSR-18: HTTP Client
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-18-http-client)
 
 This skill covers the PSR HTTP client standard.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-18-http-client)

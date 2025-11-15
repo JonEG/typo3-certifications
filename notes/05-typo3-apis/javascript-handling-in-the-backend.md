@@ -1,6 +1,6 @@
 # JavaScript handling in the Backend
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#javascript-handling-in-the-backend)
 
 This skill covers the TYPO3-specific parts of ES6: how to load modules in TYPO3 and how developers can leverage the TYPO3 Core API to use their own JavaScript code in the TYPO3 Backend.
 
@@ -14,4 +14,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#javascript-handling-in-the-backend)

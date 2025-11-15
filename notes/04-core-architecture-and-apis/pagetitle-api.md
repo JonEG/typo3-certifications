@@ -1,6 +1,6 @@
 # PageTitle API
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#pagetitle-api)
 
 This skill covers the PageTitle API, which can be used to flexibly modify the title of the generated page, e.g. in the single view of a plugin.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#pagetitle-api)

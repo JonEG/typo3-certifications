@@ -1,6 +1,6 @@
 # Versioning & Workspaces
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#versioning-and-workspaces)
 
 This skill covers Versioning & Workspaces in TYPO3 which allow to manage content changes and staging through version control and isolated workspaces. It allows for tracking revisions, previewing changes before publication, and coordinating collaborative work by separating development from live content.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#versioning-and-workspaces)

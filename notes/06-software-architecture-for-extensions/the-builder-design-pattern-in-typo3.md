@@ -1,6 +1,6 @@
 # The builder design pattern in TYPO3
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#the-builder-design-pattern-in-typo3)
 
 TYPO3 provides some concrete classes following the Builder design pattern.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#the-builder-design-pattern-in-typo3)

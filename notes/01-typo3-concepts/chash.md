@@ -1,6 +1,6 @@
 # cHash
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#chash)
 
 This skill covers the cHash (cache hash) in TYPO3 which is used to prevent cache flooding and to ensure that cached content is correctly identified and served based on query parameters and URL changes. This mechanism helps in generating unique cache entries for different content variations, improving cache accuracy and preventing stale content from being served.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#chash)

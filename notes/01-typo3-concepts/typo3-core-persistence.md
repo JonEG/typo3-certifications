@@ -1,6 +1,6 @@
 # TYPO3 Core Persistence
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#typo3-core-persistence)
 
 This skill covers TYPO3's persistence engine, which handles data management and storage within the system. This includes understanding how TYPO3 structures and maintains data integrity, as well as the mechanisms that support consistent data handling across the Backend and Frontend.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#typo3-core-persistence)

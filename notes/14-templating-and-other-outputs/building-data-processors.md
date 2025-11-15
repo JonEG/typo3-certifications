@@ -1,6 +1,6 @@
 # Building data processors
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#building-data-processors)
 
 This skill covers the creation of data processors for TYPO3.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#building-data-processors)

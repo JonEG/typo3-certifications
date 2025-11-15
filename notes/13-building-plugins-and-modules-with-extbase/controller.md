@@ -1,6 +1,6 @@
 # Controller
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#controller)
 
 This skill covers controllers, the "C" in the MVC pattern.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#controller)

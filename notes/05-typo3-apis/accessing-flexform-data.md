@@ -1,6 +1,6 @@
 # Accessing FlexForm Data
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#accessing-flexform-data)
 
 Using data provided in FlexForms in plugin CEs and custom records.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#accessing-flexform-data)

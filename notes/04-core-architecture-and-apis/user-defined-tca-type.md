@@ -1,6 +1,6 @@
 # User-defined TCA type
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-defined-tca-type)
 
 This skill covers the TCA type ﬁuserﬂ.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-defined-tca-type)

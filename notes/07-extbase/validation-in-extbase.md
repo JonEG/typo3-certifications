@@ -1,6 +1,6 @@
 # Validation in Extbase
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#validation-in-extbase)
 
 What concepts exist to validate controller action input parameters.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#validation-in-extbase)

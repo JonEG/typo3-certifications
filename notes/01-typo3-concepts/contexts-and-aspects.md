@@ -1,6 +1,6 @@
 # Contexts & Aspects
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#contexts-and-aspects)
 
 This skill introduces usage of the request context and aspects that can be used to enrich this context, e.g. with localization information.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#contexts-and-aspects)

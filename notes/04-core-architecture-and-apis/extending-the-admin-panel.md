@@ -1,6 +1,6 @@
 # Extending the Admin Panel
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extending-the-admin-panel)
 
 This skill covers implementing custom functionality for the Admin Panel.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extending-the-admin-panel)

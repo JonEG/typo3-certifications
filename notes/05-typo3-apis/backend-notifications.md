@@ -1,6 +1,6 @@
 # Backend Notifications
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#backend-notifications)
 
 The focus of this skill is to know how to utilize notifications for backend users.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#backend-notifications)

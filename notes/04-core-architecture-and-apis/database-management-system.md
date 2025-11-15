@@ -1,6 +1,6 @@
 # Database Management System (DBMS)
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#database-management-system)
 
 Knowledge about DBMS.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#database-management-system)

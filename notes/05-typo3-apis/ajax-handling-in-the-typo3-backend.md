@@ -1,6 +1,6 @@
 # AJAX handling in the TYPO3 Backend
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#ajax-handling-in-the-typo3-backend)
 
 Created on: 06.11.2025 AJAX handling in the TYPO3 Backend This skill covers knowledge about how AJAX actions are handled in the TYPO3 Backend and how custom code can be made available for AJAX calls.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#ajax-handling-in-the-typo3-backend)

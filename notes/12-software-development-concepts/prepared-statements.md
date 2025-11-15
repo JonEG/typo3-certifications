@@ -1,6 +1,6 @@
 # Prepared Statements
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#prepared-statements)
 
 This skill covers the concept of Prepared Statements in relational databases.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#prepared-statements)

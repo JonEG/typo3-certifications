@@ -1,6 +1,6 @@
 # TYPO3 Version API
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#typo3-version-api)
 
 The TYPO3 Version information API.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#typo3-version-api)

@@ -1,6 +1,6 @@
 # PHP
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#php)
 
 Ability to develop and execute PHP scripts.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#php)

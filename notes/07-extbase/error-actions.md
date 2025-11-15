@@ -1,6 +1,6 @@
 # Error Actions
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#error-actions)
 
 This skill covers how to handle validation errors.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#error-actions)

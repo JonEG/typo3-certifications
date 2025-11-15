@@ -1,6 +1,6 @@
 # Single Table Inheritance in TYPO3
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#single-table-inheritance-in-typo3)
 
 This skill covers the usage of the Single Table Inheritance technique in TYPO3. It is used in TYPO3 to manage multiple object types within a single database table. This approach allows different classes to share the same table while maintaining distinct behaviors, simplifying database structure and improving performance in TYPO3 extensions.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#single-table-inheritance-in-typo3)

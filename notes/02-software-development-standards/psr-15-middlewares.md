@@ -1,6 +1,6 @@
 # PSR-15: Middlewares
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-15-middlewares)
 
 This skill covers the PHP standard on middlewares.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-15-middlewares)

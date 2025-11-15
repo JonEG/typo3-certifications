@@ -1,6 +1,6 @@
 # Docblocks in PHP
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#docblocks-in-php)
 
 This skill covers knowledge of the syntax and general purpose of documentation blocks, and the most often used annotations.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#docblocks-in-php)

@@ -1,6 +1,6 @@
 # HTTP
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#http)
 
 This skill covers the methods for requesting and delivering resources by HTTP (Hypertext Transfer Protocol), such as web pages and files, and includes status codes to indicate the result of these requests.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#http)

@@ -1,6 +1,6 @@
 # Implementing MVC in TYPO3
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#implementing-mvc-in-typo3)
 
 This skill introduces the concept of MVC in Extbase: base classes for models, controllers, repositories.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#implementing-mvc-in-typo3)

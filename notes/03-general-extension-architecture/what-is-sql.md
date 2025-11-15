@@ -1,6 +1,6 @@
 # What is SQL?
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#what-is-sql)
 
 Knowledge about how to access and manipulate data in DBMS.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#what-is-sql)

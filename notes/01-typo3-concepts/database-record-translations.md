@@ -1,6 +1,6 @@
 # Database Record Translations
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#database-record-translations)
 
 This skill covers the translation configuration of database records via TCA.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#database-record-translations)

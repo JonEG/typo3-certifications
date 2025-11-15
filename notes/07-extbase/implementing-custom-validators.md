@@ -1,6 +1,6 @@
 # Implementing Custom Validators
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#implementing-custom-validators)
 
 This skill covers knowledge of how to provide custom data validation in Extbase.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#implementing-custom-validators)

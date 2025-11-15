@@ -1,6 +1,6 @@
 # PHP autoloading standards
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#php-autoloading-standards)
 
 The different PHP autoloading standards (PSR-4, class maps), how they map PHP classes to files and folders, and how the PSR-4 autoloading is configured.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#php-autoloading-standards)

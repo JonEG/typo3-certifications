@@ -1,6 +1,6 @@
 # TYPO3 Message bus
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#typo3-message-bus)
 
 This skill covers the TYPO3 message bus solution based on the Symfony Messenger component.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#typo3-message-bus)

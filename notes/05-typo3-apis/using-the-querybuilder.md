@@ -1,6 +1,6 @@
 # Using the QueryBuilder
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#using-the-querybuilder)
 
 How to write queries in TYPO3.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#using-the-querybuilder)

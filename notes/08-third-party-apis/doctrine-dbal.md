@@ -1,6 +1,6 @@
 # Doctrine DBAL
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#doctrine-dbal)
 
 This skill covers basic knowledge about the Doctrine Database Abstraction Layer (DBAL) component for transparently accessing several DBMS in PHP.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#doctrine-dbal)

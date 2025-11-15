@@ -1,6 +1,6 @@
 # reStructuredText
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#restructuredtext)
 
 This skill covers the lightweight markup language reStructuredText (reST). Which is used for formatting text.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#restructuredtext)

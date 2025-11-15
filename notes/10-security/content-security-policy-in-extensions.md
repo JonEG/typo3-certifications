@@ -1,6 +1,6 @@
 # Content Security Policy in Extensions
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#content-security-policy-in-extensions)
 
 This skill covers the usage and configuration of CSP in TYPO3 Extension.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#content-security-policy-in-extensions)

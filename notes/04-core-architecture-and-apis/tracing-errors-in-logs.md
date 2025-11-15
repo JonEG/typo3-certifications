@@ -1,6 +1,6 @@
 # Tracing Errors in Logs
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tracing-errors-in-logs)
 
 Knowledge about log sources and how to utilize them in order to resolve errors.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tracing-errors-in-logs)

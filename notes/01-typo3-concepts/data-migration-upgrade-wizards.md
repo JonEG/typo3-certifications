@@ -1,6 +1,6 @@
 # Data Migration (Upgrade Wizards)
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#data-migration-upgrade-wizards)
 
 This skill covers the Upgrade Wizards in TYPO3 which assist with the process of upgrading TYPO3 installations and extensions by automating data migrations needed to ensure compatibility with newer versions.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#data-migration-upgrade-wizards)

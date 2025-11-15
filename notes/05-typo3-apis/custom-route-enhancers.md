@@ -1,6 +1,6 @@
 # Custom Route Enhancers
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#custom-route-enhancers)
 
 This skill covers the creation of custom Route Enhancers for the TYPO3 frontend routing.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#custom-route-enhancers)

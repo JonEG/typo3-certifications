@@ -1,6 +1,6 @@
 # Table Configuration Array (TCA)
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#table-configuration-array-tca)
 
 Configuring database tables for usage in the backend and frontend.
 
@@ -15,4 +15,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#table-configuration-array-tca)

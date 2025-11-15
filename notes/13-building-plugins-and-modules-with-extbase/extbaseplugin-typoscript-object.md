@@ -1,6 +1,6 @@
 # EXTBASEPLUGIN TypoScript Object
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbaseplugin-typoscript-object)
 
 This skill covers the integration of Extbase plugins into rendering via TypoScript.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbaseplugin-typoscript-object)

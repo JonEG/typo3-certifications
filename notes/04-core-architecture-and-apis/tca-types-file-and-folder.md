@@ -1,6 +1,6 @@
 # TCA types File and Folder
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tca-types-file-and-folder)
 
 This skill covers the TCA types "file" and "folder", used for relations from records to files and folders.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tca-types-file-and-folder)

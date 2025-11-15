@@ -1,6 +1,6 @@
 # Data structures in TYPO3 core
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#data-structures-in-typo3-core)
 
 This skill covers classes for data structures, e.g., the BitSet and Map class, and their usage.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#data-structures-in-typo3-core)

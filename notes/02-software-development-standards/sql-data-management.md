@@ -1,6 +1,6 @@
 # SQL Data Management
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#sql-data-management)
 
 This skill covers the principles of SQL Data Management, including the processes of querying, updating, and organizing data within a relational database using SQL commands.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#sql-data-management)

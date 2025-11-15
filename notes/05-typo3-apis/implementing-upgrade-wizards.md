@@ -1,6 +1,6 @@
 # Implementing upgrade wizards
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#implementing-upgrade-wizards)
 
 This skill covers the implementation of upgrade wizards, which can be used by integrators to update existing extension data and configuration after upgrading the extension.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#implementing-upgrade-wizards)

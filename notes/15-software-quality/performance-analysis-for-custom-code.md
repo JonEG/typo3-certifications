@@ -1,6 +1,6 @@
 # Performance analysis for custom code
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#performance-analysis-for-custom-code)
 
 This skill covers the process of analysing performance of a TYPO3 system.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#performance-analysis-for-custom-code)

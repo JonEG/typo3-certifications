@@ -1,6 +1,6 @@
 # Writing and using own Symfony Expressions
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#writing-and-using-own-symfony-expressions)
 
 This skill covers the Symfony Expression syntax used in e.g. TypoScript conditions and ways to extend that functionality with custom code.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#writing-and-using-own-symfony-expressions)

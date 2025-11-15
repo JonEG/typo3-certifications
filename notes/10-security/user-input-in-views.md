@@ -1,6 +1,6 @@
 # User Input in Views
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-input-in-views)
 
 Knowledge about securely outputting values gained through user input.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-input-in-views)

@@ -1,6 +1,6 @@
 # SQL Structure Management
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#sql-structure-management)
 
 This skill covers designing and maintaining the schema of a relational database with SQL Structure Management including the creation, modification, and optimization of tables, indexes, and relationships. It ensures that the database structure supports efficient data storage and retrieval while adhering to integrity constraints and normalization principles.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#sql-structure-management)

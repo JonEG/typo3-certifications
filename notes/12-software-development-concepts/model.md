@@ -1,6 +1,6 @@
 # Model
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#model)
 
 This skill covers the model in the MVC context.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#model)

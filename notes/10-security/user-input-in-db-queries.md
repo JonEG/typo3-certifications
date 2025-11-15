@@ -1,6 +1,6 @@
 # User Input in DB Queries
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-input-in-db-queries)
 
 Knowledge about securely processing user input for database queries.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#user-input-in-db-queries)

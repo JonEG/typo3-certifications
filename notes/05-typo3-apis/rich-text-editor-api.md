@@ -1,6 +1,6 @@
 # Rich Text Editor API
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#rich-text-editor-api)
 
 This skill covers the knowledge of modifying CKeditor™s configuration programmatically: modify existing or add complete new configurations
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#rich-text-editor-api)

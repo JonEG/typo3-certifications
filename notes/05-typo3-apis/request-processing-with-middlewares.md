@@ -1,6 +1,6 @@
 # Request processing with middlewares
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#request-processing-with-middlewares)
 
 This skill covers the usage of PSR-15 middlewares in TYPO3 - both for frontend and backend request processing.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#request-processing-with-middlewares)

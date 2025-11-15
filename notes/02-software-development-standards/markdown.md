@@ -1,6 +1,6 @@
 # Markdown
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#markdown)
 
 This skill covers the lightweight markup language Markdown. Which is designed for formatting text in a simple and readable way
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#markdown)

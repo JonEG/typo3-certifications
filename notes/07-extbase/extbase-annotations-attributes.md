@@ -1,6 +1,6 @@
 # Extbase Annotations/Attributes
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-annotations-attributes)
 
 This skill is about PHPDoc annotations and PHP attributes particular to Extbase.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-annotations-attributes)

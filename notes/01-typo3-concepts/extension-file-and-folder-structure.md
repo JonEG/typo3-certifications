@@ -1,6 +1,6 @@
 # Extension File and Folder Structure
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extension-file-and-folder-structure)
 
 This skill covers knowledge about the file structure of an extension and where to place files by convention and due to technical requirements.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extension-file-and-folder-structure)

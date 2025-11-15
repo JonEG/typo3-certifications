@@ -1,6 +1,6 @@
 # TYPO3 Debugging Utilities
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#typo3-debugging-utilities)
 
 Knowledge about debugging utilities provided by TYPO3.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#typo3-debugging-utilities)

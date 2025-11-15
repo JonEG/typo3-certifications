@@ -1,6 +1,6 @@
 # Building Custom Dashboard Widgets
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#building-custom-dashboard-widgets)
 
 This skill covers creating custom widgets for the TYPO3 Backend Dashboard and configuring existing widget groups.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#building-custom-dashboard-widgets)

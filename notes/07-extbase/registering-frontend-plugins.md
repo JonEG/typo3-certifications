@@ -1,6 +1,6 @@
 # Registering Frontend Plugins
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#registering-frontend-plugins)
 
 This skill covers the registration of a frontend plugin to make it available to users.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#registering-frontend-plugins)

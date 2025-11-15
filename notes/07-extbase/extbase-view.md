@@ -1,6 +1,6 @@
 # Extbase View
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-view)
 
 This skill explains the view part of MVC in Extbase.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-view)

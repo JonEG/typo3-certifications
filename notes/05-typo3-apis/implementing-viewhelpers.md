@@ -1,6 +1,6 @@
 # Implementing ViewHelpers
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#implementing-viewhelpers)
 
 This skill provides the foundations for using custom PHP code in a Fluid-based view.
 
@@ -14,4 +14,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#implementing-viewhelpers)

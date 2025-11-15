@@ -1,6 +1,6 @@
 # Extbase Fluid View
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-fluid-view)
 
 This skill covers knowledge about the Fluid-based HTML view of Extbase.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-fluid-view)

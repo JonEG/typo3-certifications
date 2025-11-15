@@ -1,6 +1,6 @@
 # Providing own events
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#providing-own-events)
 
 The focus of this skill is providing custom events within the TYPO3 PSR-14 implementation.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#providing-own-events)

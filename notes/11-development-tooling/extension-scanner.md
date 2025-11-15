@@ -1,6 +1,6 @@
 # Extension scanner
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extension-scanner)
 
 This skill covers the Extension Scanner, which extension authors and project maintainers can use to detect possible problems in their extensions while upgrading them to a newer TYPO3 version.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extension-scanner)

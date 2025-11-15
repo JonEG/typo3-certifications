@@ -1,6 +1,6 @@
 # PSR Standards
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-standards)
 
 Knowing the most important PSR programming standards in the TYPO3 world.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-standards)

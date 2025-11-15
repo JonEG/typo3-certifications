@@ -1,6 +1,6 @@
 # View Pattern
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#view-pattern)
 
 What is a view in MVC context.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#view-pattern)

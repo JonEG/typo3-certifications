@@ -1,6 +1,6 @@
 # Static code analysis
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#static-code-analysis)
 
 Developing and maintaining large code bases can be cumbersome. Tools providing static code analysis can help.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#static-code-analysis)

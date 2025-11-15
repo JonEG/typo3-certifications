@@ -1,6 +1,6 @@
 # Debugging PSR-14 Event Handling
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#debugging-psr-14-event-handling)
 
 This skill covers debugging the registration, dispatching and handling of events.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#debugging-psr-14-event-handling)

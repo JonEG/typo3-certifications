@@ -1,6 +1,6 @@
 # Extbase Request/Response
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-request-response)
 
 This skill covers knowledge about how requests are handled by Extbase.
 
@@ -15,4 +15,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extbase-request-response)

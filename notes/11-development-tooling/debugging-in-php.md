@@ -1,6 +1,6 @@
 # Debugging in PHP
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#debugging-in-php)
 
 This skill covers basic knowledge about error tracing methods in PHP.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#debugging-in-php)

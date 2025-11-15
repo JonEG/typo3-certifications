@@ -1,6 +1,6 @@
 # Domain-Driven Design (DDD)
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#domain-driven-design-ddd)
 
 Understanding the concept of DDD.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#domain-driven-design-ddd)

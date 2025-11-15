@@ -1,6 +1,6 @@
 # Special Input TCA Types
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#special-input-tca-types)
 
 This skill covers specialized text input types in TCA.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#special-input-tca-types)

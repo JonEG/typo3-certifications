@@ -1,6 +1,6 @@
 # PSR-11: Dependency Injection
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-11-dependency-injection)
 
 This skill covers different types of dependency injection in TYPO3 and the configuration of dependency injection.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-11-dependency-injection)

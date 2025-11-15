@@ -1,6 +1,6 @@
 # TCA type "slug"
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tca-type-slug)
 
 This skill covers the TCA type slug to create slugs for records.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#tca-type-slug)

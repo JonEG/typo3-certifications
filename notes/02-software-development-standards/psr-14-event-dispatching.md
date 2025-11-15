@@ -1,6 +1,6 @@
 # PSR-14: Event Dispatching
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-14-event-dispatching)
 
 This skill covers the basics of the PHP standard on Event dispatching.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-14-event-dispatching)

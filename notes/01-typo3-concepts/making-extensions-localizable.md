@@ -1,6 +1,6 @@
 # Making Extensions localizable
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#making-extensions-localizable)
 
 This skill covers knowledge of how to make extensions translatable and localizable.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#making-extensions-localizable)

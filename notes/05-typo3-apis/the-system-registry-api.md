@@ -1,6 +1,6 @@
 # The System Registry API
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#the-system-registry-api)
 
 This skill covers the system registry API, provided by the TYPO3 Core to store instance-specific data.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#the-system-registry-api)

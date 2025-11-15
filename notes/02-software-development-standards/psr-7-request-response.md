@@ -1,6 +1,6 @@
 # PSR-7: Request/Response
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-7-request-response)
 
 This skill covers the PSR standard for HTTP request/response objects.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#psr-7-request-response)

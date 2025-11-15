@@ -1,6 +1,6 @@
 # AssetCollector class and ViewHelpers
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#assetcollector-class-and-viewhelpers)
 
 This skill covers the AssetCollector class and the corresponding ViewHelpers, which are used to register and render CSS and JS assets.
 
@@ -11,4 +11,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#assetcollector-class-and-viewhelpers)

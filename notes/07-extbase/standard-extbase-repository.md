@@ -1,6 +1,6 @@
 # Standard Extbase Repository
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#standard-extbase-repository)
 
 This skill covers the default Repository class shipped with Extbase.
 
@@ -12,4 +12,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#standard-extbase-repository)

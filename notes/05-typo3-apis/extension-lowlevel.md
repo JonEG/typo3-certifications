@@ -1,6 +1,6 @@
 # Extension: Lowlevel
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extension-lowlevel)
 
 The lowlevel extension allows examining the current TYPO3 configuration.
 
@@ -13,4 +13,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#extension-lowlevel)

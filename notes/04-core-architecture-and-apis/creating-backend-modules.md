@@ -1,6 +1,6 @@
 # Creating Backend modules
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#creating-backend-modules)
 
 This skill covers the creation of custom backend modules for TYPO3.
 
@@ -15,4 +15,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#creating-backend-modules)

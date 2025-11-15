@@ -1,6 +1,6 @@
 # Environment class
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#environment-class)
 
 This skill covers knowledge on TYPO3™s Environment class, which provides system-specific details that are independent from the system environment.
 
@@ -10,4 +10,4 @@ Goals:
 
 ---
 
-→ [Back to Readme](../../README.md#notes)
+→ [Back to Readme](../../README.md#environment-class)
