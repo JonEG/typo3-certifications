@@ -6,9 +6,9 @@ This skill covers managing and optimizing the storage of frequently accessed dat
 
 Goals:
 
-- [ ] Understand the different types of caches available in TYPO3 and their purposes
-- [ ] Configure and use caches to enhance performance and efficiency
-- [ ] Manage and clear cache entries using CacheManager
+- [ ] Understand the different types of caches available in TYPO3 and their purposes.
+- [ ] Configure and use caches to enhance performance and efficiency.
+- [ ] Manage and clear cache entries using CacheManager.
 
 ---
 

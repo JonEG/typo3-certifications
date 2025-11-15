@@ -8,7 +8,7 @@ Goals:
 
 - [ ] I know which default query methods are shipped.
 - [ ] I know which restrictions apply to queries by default.
-- [ ] I know how to create a repository based on the default Repository class
+- [ ] I know how to create a repository based on the default Repository class.
 
 ---
 

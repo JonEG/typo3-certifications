@@ -6,9 +6,9 @@ This skill covers the principles of SQL Data Management, including the processes
 
 Goals:
 
-- [ ] I know how to perform data retrieval and manipulation using SQL commands
-- [ ] I know how to manage and update records effectively in a relational database
-- [ ] I know how to implement practices to ensure data integrity and consistency during operations
+- [ ] I know how to perform data retrieval and manipulation using SQL commands.
+- [ ] I know how to manage and update records effectively in a relational database.
+- [ ] I know how to implement practices to ensure data integrity and consistency during operations.
 
 ---
 

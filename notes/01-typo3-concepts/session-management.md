@@ -6,8 +6,8 @@ This skill covers session management in TYPO3. Session Management involves handl
 
 Goals:
 
-- [ ] I know how session management is implemented in TYPO3
-- [ ] I know about the lifecycle of sessions in TYPO3
+- [ ] I know how session management is implemented in TYPO3.
+- [ ] I know about the lifecycle of sessions in TYPO3.
 
 ---
 

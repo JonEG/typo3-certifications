@@ -6,8 +6,8 @@ This skill covers the TCA types "file" and "folder", used for relations from rec
 
 Goals:
 
-- [ ] I know about options to define relations from records to files/folders
-- [ ] I know how to change appearance and behaviour of those relations
+- [ ] I know about options to define relations from records to files/folders.
+- [ ] I know how to change appearance and behaviour of those relations.
 
 ---
 

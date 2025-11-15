@@ -8,7 +8,7 @@ Goals:
 
 - [ ] I know how PHP DocBlocks look and I know the general purpose and limitations.
 - [ ] I can write valid annotations.
-- [ ] I know when I can omit parts or whole DocBlocks
+- [ ] I know when I can omit parts or whole DocBlocks.
 
 ---
 

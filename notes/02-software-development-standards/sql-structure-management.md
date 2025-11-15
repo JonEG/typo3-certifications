@@ -6,9 +6,9 @@ This skill covers designing and maintaining the schema of a relational database 
 
 Goals:
 
-- [ ] I know the principles of database schema design and structure management
-- [ ] I know how to create and modify database tables, indexes, and relationships using SQL
-- [ ] I know how to implement best practices for database normalization and optimization
+- [ ] I know the principles of database schema design and structure management.
+- [ ] I know how to create and modify database tables, indexes, and relationships using SQL.
+- [ ] I know how to implement best practices for database normalization and optimization.
 
 ---
 

@@ -6,7 +6,7 @@ This skill covers the creation of command-line commands for TYPO3, based on the 
 
 Goals:
 
-- [ ] I can create and register new Symfony CLI commands
+- [ ] I can create and register new Symfony CLI commands.
 - [ ] I can find my way around existing commands and can modify them.
 
 ---

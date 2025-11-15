@@ -6,8 +6,8 @@ This skill covers the lightweight markup language reStructuredText (reST). Which
 
 Goals:
 
-- [ ] I know the basic syntax and features of reStructuredText
-- [ ] I know how to format and structure documents using reST
+- [ ] I know the basic syntax and features of reStructuredText.
+- [ ] I know how to format and structure documents using reST.
 
 ---
 

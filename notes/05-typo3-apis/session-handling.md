@@ -6,8 +6,8 @@ This skill covers Session Handling in TYPO3, both for backend and frontend. This
 
 Goals:
 
-- [ ] Understand the basics of session handling in TYPO3
-- [ ] Manage session data for user interactions
+- [ ] Understand the basics of session handling in TYPO3.
+- [ ] Manage session data for user interactions.
 
 ---
 

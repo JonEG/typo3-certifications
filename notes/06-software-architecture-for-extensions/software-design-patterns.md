@@ -6,9 +6,9 @@ This skill covers Software Design Patterns, established solutions for repeated p
 
 Goals:
 
-- [ ] I know what Design Patterns are and why they are useful
-- [ ] I know examples of Design Patterns used in TYPO3
-- [ ] I know when to apply Design Patterns in my own code
+- [ ] I know what Design Patterns are and why they are useful.
+- [ ] I know examples of Design Patterns used in TYPO3.
+- [ ] I know when to apply Design Patterns in my own code.
 
 ---
 
