@@ -6,6 +6,9 @@ The Exception and Error Handlers in TYPO3 manage and respond to errors and excep
 
 Goals:
 
+- [ ] Understand the functionality of TYPO3's Exception and Error Handlers.
+- [ ] Configure custom error pages and manage error logging.
+- [ ] Implement strategies for handling different types of errors and exceptions in TYPO3.
 
 ---
 

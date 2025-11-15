@@ -6,6 +6,10 @@ Asynchronous Task Execution allows tasks to be processed in the background witho
 
 Goals:
 
+- [ ] Understand the concept of asynchronous task execution.
+- [ ] Learn about constraints to consider when moving a task to asynchronous execution.
+- [ ] Recognize the benefits of using asynchronous task execution for enhanced performance,
+scalability, and system decoupling.
 
 ---
 

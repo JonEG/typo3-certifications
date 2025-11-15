@@ -6,6 +6,9 @@ Recurring Code Tasks refer to automated processes or scripts that run at regular
 
 Goals:
 
+- [ ] Understand the purpose and benefits of automating recurring code tasks.
+- [ ] Learn how to set up and manage recurring tasks using TYPO3™s scheduling tools.
+- [ ] Recognize best practices for ensuring the reliability and efficiency of automated tasks.
 
 ---
 

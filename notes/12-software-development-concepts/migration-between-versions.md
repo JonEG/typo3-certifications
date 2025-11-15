@@ -6,6 +6,9 @@ Migration between versions involves upgrading from one major version to another,
 
 Goals:
 
+- [ ] Understand the process and importance of migrating between versions.
+- [ ] Learn the steps involved in preparing, executing, and validating a migration.
+- [ ] Recognize potential challenges and best practices for a successful migration.
 
 ---
 

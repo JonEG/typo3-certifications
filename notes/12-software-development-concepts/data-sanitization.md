@@ -6,6 +6,8 @@ Data sanitization involves cleaning and formatting input data to remove or neutr
 
 Goals:
 
+- [ ] Understand the concept and importance of data sanitization.
+- [ ] Learn how to judge which input requires which type of sanitization.
 
 ---
 

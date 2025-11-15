@@ -6,6 +6,9 @@ The extensibility through extensions in TYPO3 allows developers to enhance the c
 
 Goals:
 
+- [ ] Understand the role of PHP extensions in extending TYPO3™s capabilities.
+- [ ] Learn how to identify, install, and configure PHP extensions for TYPO3.
+- [ ] Recognize the impact of PHP extensions on performance and functionality.
 
 ---
 

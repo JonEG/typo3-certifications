@@ -6,6 +6,8 @@ The PHP Package used for generating and rendering documentation.
 
 Goals:
 
+- [ ] What is phpDocumentator.
+- [ ] How to use phpDocumentor.
 
 ---
 

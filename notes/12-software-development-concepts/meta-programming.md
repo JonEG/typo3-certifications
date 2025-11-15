@@ -6,6 +6,8 @@ Meta Programming involves creating code that can manipulate or generate other co
 
 Goals:
 
+- [ ] Understand the principles and benefits of meta programming.
+- [ ] Recognize how meta programming can streamline development and reduce redundancy.
 
 ---
 

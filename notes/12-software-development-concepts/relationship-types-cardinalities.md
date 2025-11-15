@@ -6,6 +6,9 @@ Relationship types, or cardinalities,  define the nature of associations between
 
 Goals:
 
+- [ ] Understand the different types of relationships (cardinalities).
+- [ ] Learn how to implement and manage these relationships within a relational database.
+- [ ] Recognize the implications of different relationship types for data integrity and application logic.
 
 ---
 

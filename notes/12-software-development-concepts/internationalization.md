@@ -6,6 +6,11 @@ Internationalization is the process of preparing a website and its content to su
 
 Goals:
 
+- [ ] Understand the concept and importance of internationalization.
+- [ ] Learn how to implement internationalization features, such as language handling and localization
+settings.
+- [ ] Recognize best practices for developing a TYPO3 site that can easily adapt to different regions
+and languages.
 
 ---
 

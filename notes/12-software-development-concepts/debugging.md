@@ -6,6 +6,8 @@ Debugging involves identifying and resolving errors or issues within the system,
 
 Goals:
 
+- [ ] Understand the tools and techniques available for debugging.
+- [ ] Recognize the importance of systematic debugging to ensure system stability.
 
 ---
 

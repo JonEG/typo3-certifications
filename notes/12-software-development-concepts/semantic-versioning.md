@@ -6,6 +6,10 @@ Semantic Versioning is a standardized versioning system that assigns version num
 
 Goals:
 
+- [ ] Understand the structure and rules of semantic versioning.
+- [ ] Learn how to apply semantic versioning principles.
+- [ ] Recognize the significance of each version component (Major, Minor, Patch) and its potential
+impact on system stability.
 
 ---
 

@@ -6,6 +6,9 @@ The Registry Pattern is a design pattern used to store and manage global objects
 
 Goals:
 
+- [ ] Understand the concept and purpose of the Registry Pattern.
+- [ ] Learn how to utilize the Registry Pattern for managing global objects.
+- [ ] Recognize the benefits of using the Registry Pattern for code organization and efficiency.
 
 ---
 

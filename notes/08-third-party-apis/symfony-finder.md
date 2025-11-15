@@ -6,6 +6,9 @@ Symfony Finder is a component that provides a fluent interface for locating file
 
 Goals:
 
+- [ ] Understand the functionality and use cases of the Symfony Finder component.
+- [ ] Be able to perform file and directory searches using different criteria and filters.
+- [ ] Implement file system operations in Symfony applications using the Finder component.
 
 ---
 

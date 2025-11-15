@@ -6,6 +6,8 @@ Frontend Routing in TYPO3 manages the mapping of URLs to specific pages, plugins
 
 Goals:
 
+- [ ] Understand how frontend routing works in TYPO3 and its role in URL management.
+- [ ] Learn to configure and customize URL routes for custom plugins.
 
 ---
 

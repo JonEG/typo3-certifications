@@ -6,6 +6,9 @@ Symfony Routing is a component used in TYPO3 to map HTTP requests to specific co
 
 Goals:
 
+- [ ] Understand how to define and configure routes in a Symfony application.
+- [ ] Be able to use different methods for route definition, including annotations, YAML, and PHP.
+- [ ] Implement route parameters, constraints, and localization in Symfony routes.
 
 ---
 

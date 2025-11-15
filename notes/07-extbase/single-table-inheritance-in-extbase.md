@@ -6,6 +6,9 @@ Single Table Inheritance (STI) in Extbase is a technique used to manage inherita
 
 Goals:
 
+- [ ] Understand the concept of Single Table Inheritance (STI) and its implementation in Extbase.
+- [ ] Be able to configure Extbase models to use STI and define a discriminator column.
+- [ ] Recognize the advantages and potential pitfalls of using STI in TYPO3 projects.
 
 ---
 

@@ -6,6 +6,9 @@ The Sites PHP API allows accessing the configuration of a specific site and reso
 
 Goals:
 
+- [ ] Understand the functionality and use cases of the Sites API in TYPO3.
+- [ ] Access site-specific configurations, such as language options and error handling, using the Sites
+API.
 
 ---
 

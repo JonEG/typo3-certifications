@@ -6,6 +6,8 @@ The Symfony Console component
 
 Goals:
 
+- [ ] What does Symfony Console provide.
+- [ ] How can Symfony Console be extended.
 
 ---
 

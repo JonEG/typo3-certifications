@@ -6,6 +6,8 @@ Authentication involves verifying the identity of users to grant access to prote
 
 Goals:
 
+- [ ] Understand the principles of authentication in TYPO3.
+- [ ] Configure and manage authentication mechanisms for user access control.
 
 ---
 

@@ -6,6 +6,9 @@ Convention over Configuration is a development paradigm that reduces the need fo
 
 Goals:
 
+- [ ] Understand the principle of Convention over Configuration.
+- [ ] Learn how conventions simplify development.
+- [ ] Recognize the benefits and limitations of using conventions over custom configuration.
 
 ---
 

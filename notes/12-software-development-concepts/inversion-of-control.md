@@ -6,6 +6,9 @@ Inversion of Control (IoC) is a design principle where the flow of control is in
 
 Goals:
 
+- [ ] Understand the concept and benefits of Inversion of Control.
+- [ ] Get to know examples of how IoC is implemented in modern software systems.
+- [ ] Recognize how IoC contributes to better code maintainability and testability.
 
 ---
 

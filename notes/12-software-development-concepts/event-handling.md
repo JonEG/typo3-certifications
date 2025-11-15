@@ -6,6 +6,8 @@ Events are a way to implement loosely coupled software. They allow for calling o
 
 Goals:
 
+- [ ] Understand how event-based architectures work.
+- [ ] Learn the principles of how events are implemented and used.
 
 ---
 

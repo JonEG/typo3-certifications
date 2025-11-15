@@ -6,6 +6,9 @@ Error and Exception Handling in Extbase involves managing and responding to erro
 
 Goals:
 
+- [ ] Understand how to handle errors and exceptions in Extbase.
+- [ ] Configure custom error handling and exception logging.
+- [ ] Implement strategies for graceful exception management in Extbase extensions.
 
 ---
 

@@ -6,6 +6,11 @@ Package/Dependency Management involves managing external libraries and extension
 
 Goals:
 
+- [ ] Understand the importance of package and dependency management.
+- [ ] Recognize best practices for maintaining compatibility and stability through effective dependency
+management.
+- [ ] Understand the difference between development and runtime dependencies and their respective
+usage.
 
 ---
 

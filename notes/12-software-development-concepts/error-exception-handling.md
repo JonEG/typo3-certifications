@@ -6,6 +6,9 @@ Error and exception handling involves managing and responding to runtime errors 
 
 Goals:
 
+- [ ] Understand the principles of error and exception handling.
+- [ ] Learn how to implement effective error handling strategies.
+- [ ] Recognize the importance of logging and debugging in managing exceptions and errors.
 
 ---
 

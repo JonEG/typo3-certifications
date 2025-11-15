@@ -6,6 +6,10 @@ Symfony Mailer is a component for sending emails from applications. It supports 
 
 Goals:
 
+- [ ] Understand the basics of configuring and using Symfony Mailer.
+- [ ] Be able to send emails using different transport methods and services.
+- [ ] Implement advanced email features such as templating, attachments, and logging in TYPO3
+applications.
 
 ---
 

@@ -6,6 +6,11 @@ Symfony Dependency Injection is a core design pattern used in Symfony applicatio
 
 Goals:
 
+- [ ] Understand the principles of dependency injection and its benefits.
+- [ ] Be able to configure and manage services in Symfony using the Dependency Injection
+component.
+- [ ] Implement dependency injection in controllers and other services, leveraging autowiring and
+service configuration.
 
 ---
 

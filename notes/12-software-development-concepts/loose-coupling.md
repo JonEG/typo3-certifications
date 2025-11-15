@@ -6,6 +6,9 @@ Loose Coupling refers to the design principle where different components of the 
 
 Goals:
 
+- [ ] Understand the concept and importance of loose coupling in software development.
+- [ ] Learn how to design loosely coupled components.
+- [ ] Recognize the benefits of loose coupling for maintainability, scalability, and ease of integration.
 
 ---
 

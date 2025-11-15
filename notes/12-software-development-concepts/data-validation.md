@@ -6,6 +6,8 @@ Data validation ensures that the input data conforms to expected formats and rul
 
 Goals:
 
+- [ ] Understand the importance of data validation.
+- [ ] Recognize common validation techniques and best practices to ensure data quality.
 
 ---
 

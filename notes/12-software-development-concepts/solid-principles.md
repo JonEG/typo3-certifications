@@ -6,6 +6,8 @@ The term SOLID Principles refers to a set of design principles aimed at creating
 
 Goals:
 
+- [ ] Understand the five SOLID principles and their importance in software development.
+- [ ] Recognize the benefits of SOLID principles in creating scalable and adaptable software projects.
 
 ---
 

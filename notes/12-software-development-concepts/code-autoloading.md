@@ -6,6 +6,8 @@ Code autoloading is a mechanism to automatically load additional classes and fil
 
 Goals:
 
+- [ ] Understand the concept and benefits of code autoloading.
+- [ ] Recognize how autoloading contributes to cleaner code and improved performance.
 
 ---
 

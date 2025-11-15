@@ -6,6 +6,7 @@ TYPO3 organises its page tree in one or multiple sites. This skill covers the co
 
 Goals:
 
+- [ ] Understand how TYPO3 manages the configuration for sites.
 
 ---
 

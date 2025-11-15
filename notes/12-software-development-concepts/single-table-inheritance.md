@@ -6,6 +6,9 @@ Single Table Inheritance (STI) is a database design pattern where multiple relat
 
 Goals:
 
+- [ ] Understand the concept of Single Table Inheritance.
+- [ ] Learn how to implement and manage STI in database structure.
+- [ ] Recognize the advantages and potential trade-offs of using Single Table Inheritance.
 
 ---
 

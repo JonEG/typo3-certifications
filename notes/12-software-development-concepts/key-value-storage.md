@@ -6,6 +6,8 @@ Key/value storages are a simple and efficient way to store and retrieve data pai
 
 Goals:
 
+- [ ] Understand the concept of key/value storage.
+- [ ] Recognize the advantages of key/value storage for performance and simplicity.
 
 ---
 

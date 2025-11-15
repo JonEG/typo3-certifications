@@ -6,6 +6,8 @@ Caching is a performance optimization technique that stores generated data tempo
 
 Goals:
 
+- [ ] Understand the role and benefits of caching.
+- [ ] Recognize how caching impacts site performance and user experience.
 
 ---
 

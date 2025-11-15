@@ -6,6 +6,9 @@ View Models serve as intermediaries between the controller and the view, encapsu
 
 Goals:
 
+- [ ] Understand the role of View Models.
+- [ ] Learn how to create and use View Models to pass data to templates.
+- [ ] Recognize the benefits of using View Models for clean and maintainable code.
 
 ---
 

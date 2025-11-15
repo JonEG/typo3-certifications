@@ -6,6 +6,9 @@ The Repository Design Pattern provides a way to abstract and manage data access,
 
 Goals:
 
+- [ ] Understand the concept and purpose of the Repository Design Pattern.
+- [ ] Recognize the advantages of using the Repository Design Pattern for maintaining clean,
+testable, and scalable code.
 
 ---
 

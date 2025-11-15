@@ -6,6 +6,9 @@ Routing refers to the process of mapping URLs to specific controllers and action
 
 Goals:
 
+- [ ] Understand the concept and purpose of routing.
+- [ ] Learn how to configure and manage routes to control URL structures.
+- [ ] Recognize the impact of routing on site performance, SEO, and user experience.
 
 ---
 

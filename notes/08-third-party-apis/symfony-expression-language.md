@@ -6,6 +6,8 @@ The Symfony Expression Language Component
 
 Goals:
 
+- [ ] What is Symfony Expression Language.
+- [ ] How to extend Symfony Expression Language.
 
 ---
 

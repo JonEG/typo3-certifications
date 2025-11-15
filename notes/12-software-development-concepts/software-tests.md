@@ -6,6 +6,8 @@ Software tests involve systematically checking and validating the functionality,
 
 Goals:
 
+- [ ] Understand the importance of software testing in software development.
+- [ ] Learn about different test types and their strengths and weaknesses.
 
 ---
 

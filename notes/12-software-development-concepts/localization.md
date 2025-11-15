@@ -6,6 +6,9 @@ Localization refers to the process of adapting content, interfaces, and function
 
 Goals:
 
+- [ ] Understand the concept and importance of localization.
+- [ ] Learn how localization differs from a simple translation of texts.
+- [ ] Recognize best practices for effective and consistent localization.
 
 ---
 
