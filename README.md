@@ -1,5 +1,13 @@
 # TYPO3 CMS Certified Developer (v13)
 
+While preparing for the TYPO3 Certified Developer (TCCD) v13 exam, I noticed that jumping straight into the books can feel a bit overwhelming if you don’t already have the fundamentals in place.
+
+So I’ve started this GitHub repository that follows the official SkillSet and provides basic explanations, small reference notes, and foundational concepts for each topic.
+
+The goal is not to replace any official material, it’s simply to build the fundamentals first, so we get the most out of the books, really test our understanding, and avoid just memorizing solutions without fully learning the concepts.
+
+The idea is to grow this together as a shared resource. If it works well, we could expand it to the other TYPO3 certifications.
+
 ## Index
 
 This index is based on the public SkillSet for TYPO3 version 13 LTS, created by the TYPO3 Education Committee and TYPO3 GmbH.
