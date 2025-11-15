@@ -10,14 +10,9 @@ Every note is based on a topic from the TYPO3 TCCD Syllable for version 13.
 
 ### Where to find these topics
 
-There are two main files that we need to have into account.
+ On the [PDF Syllabus](https://www.skilldisplay.eu/api/v1/skillset/1096/pdf)
 
-- [SkillSet Syllabus](https://www.skilldisplay.eu/api/v1/skillset/1096/syllabus)
-- [PDF Syllabus](https://www.skilldisplay.eu/api/v1/skillset/1096/pdf)
-
-The SkillSet Syllabus includes all the topics divided on several categories, such us Extbase, or Security. These Categories are what we use to create the different note folders. And as you can see on the PDF they contain several topics inside.
-
-The PDF Syllabus includes all topics in alphabeticall order. Here we do not know to which "Category" they belong, nevertheless it is here that we find the topic information such us goals and links.
+The PDF Syllabus includes all topics in alphabeticall order. Every folder under `/notes` is based on a "Domain Tag" from the PDF Syllabus.
 
 ### How to fill a topic
 
@@ -29,7 +24,7 @@ Every note must include the following:
 2. Link to Readme
 3. Topic introduction as in Syllable topic
 4. Goals as in Syllable topic
-5. Notes
-6. Example if possible
+5. Notes (this is the knowledge to be learned)
+6. Example (if possible from the TYPO3 core, it is under `/code` )
 7. Links to used references
 8. Link to Readme
