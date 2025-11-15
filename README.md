@@ -6,7 +6,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 [SkillSet Link - CMS Certified Developer 13 LTS](https://my.skilldisplay.eu/en/skillset/1096)
 
-### 01 Typo3 Concepts
+### Notes
+
+<details>
+<summary> 01 Typo3 Concepts</summary>
 
 1. #### [Backend Modules](notes/01-typo3-concepts/backend-modules.md)
 
@@ -72,7 +75,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 32. #### [Versioning & Workspaces](notes/01-typo3-concepts/versioning-and-workspaces.md)
 
-### 02 Software Development Standards
+</details>
+
+<details>
+<summary> 02 Software Development Standards</summary>
 
 1. #### [CVE](notes/02-software-development-standards/cve.md)
 
@@ -108,7 +114,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 17. #### [XLIFF](notes/02-software-development-standards/xliff.md)
 
-### 03 General Extension Architecture
+</details>
+
+<details>
+<summary> 03 General Extension Architecture</summary>
 
 1. #### [Database Schema Definition](notes/03-general-extension-architecture/database-schema-definition.md)
 
@@ -118,7 +127,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 4. #### [What is SQL?](notes/03-general-extension-architecture/what-is-sql.md)
 
-### 04 Core Architecture And Apis
+</details>
+
+<details>
+<summary> 04 Core Architecture And Apis</summary>
 
 1. #### [Admin Panel usage as a developer](notes/04-core-architecture-and-apis/admin-panel-usage-as-a-developer.md)
 
@@ -156,7 +168,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 18. #### [Using Query Restrictions](notes/04-core-architecture-and-apis/using-query-restrictions.md)
 
-### 05 Typo3 Apis
+</details>
+
+<details>
+<summary> 05 Typo3 Apis</summary>
 
 1. #### [Accessing FlexForm Data](notes/05-typo3-apis/accessing-flexform-data.md)
 
@@ -226,7 +241,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 34. #### [Writing and using own Symfony Expressions](notes/05-typo3-apis/writing-and-using-own-symfony-expressions.md)
 
-### 06 Software Architecture For Extensions
+</details>
+
+<details>
+<summary> 06 Software Architecture For Extensions</summary>
 
 1. #### [Builder design pattern](notes/06-software-architecture-for-extensions/builder-design-pattern.md)
 
@@ -238,7 +256,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 5. #### [The builder design pattern in TYPO3](notes/06-software-architecture-for-extensions/the-builder-design-pattern-in-typo3.md)
 
-### 07 Extbase
+</details>
+
+<details>
+<summary> 07 Extbase</summary>
 
 1. #### [Customizing Extbase Repositories](notes/07-extbase/customizing-extbase-repositories.md)
 
@@ -272,7 +293,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 16. #### [Validation in Extbase](notes/07-extbase/validation-in-extbase.md)
 
-### 08 Third Party Apis
+</details>
+
+<details>
+<summary> 08 Third Party Apis</summary>
 
 1. #### [Doctrine DBAL](notes/08-third-party-apis/doctrine-dbal.md)
 
@@ -290,7 +314,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 8. #### [Symfony Routing](notes/08-third-party-apis/symfony-routing.md)
 
-### 09 Security Concepts
+</details>
+
+<details>
+<summary> 09 Security Concepts</summary>
 
 1. #### [Authentication & Authorization](notes/09-security-concepts/authentication-and-authorization.md)
 
@@ -298,7 +325,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 3. #### [Web Vulnerability Types](notes/09-security-concepts/web-vulnerability-types.md)
 
-### 10 Security
+</details>
+
+<details>
+<summary> 10 Security</summary>
 
 1. #### [Content Security Policy in Extensions](notes/10-security/content-security-policy-in-extensions.md)
 
@@ -308,7 +338,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 4. #### [User Input in Views](notes/10-security/user-input-in-views.md)
 
-### 11 Development Tooling
+</details>
+
+<details>
+<summary> 11 Development Tooling</summary>
 
 1. #### [Code migration](notes/11-development-tooling/code-migration.md)
 
@@ -322,7 +355,10 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 6. #### [System and TYPO3 Error Logs](notes/11-development-tooling/system-and-typo3-error-logs.md)
 
-### 12 Software Development Concepts
+</details>
+
+<details>
+<summary> 12 Software Development Concepts</summary>
 
 1. #### [Asynchronous Task Execution (Message Queue)](notes/12-software-development-concepts/asynchronous-task-execution-message-queue.md)
 
@@ -388,23 +424,34 @@ This index is based on the public SkillSet for TYPO3 version 13 LTS, created by 
 
 32. #### [View Pattern](notes/12-software-development-concepts/view-pattern.md)
 
-### 13 Building Plugins And Modules With Extbase
+</details>
+
+<details>
+<summary> 13 Building Plugins And Modules With Extbase</summary>
 
 1. #### [Controller](notes/13-building-plugins-and-modules-with-extbase/controller.md)
 
 2. #### [EXTBASEPLUGIN TypoScript Object](notes/13-building-plugins-and-modules-with-extbase/extbaseplugin-typoscript-object.md)
 
-### 14 Templating And Other Outputs
+</details>
+
+<details>
+<summary> 14 Templating And Other Outputs</summary>
 
 1. #### [Building data processors](notes/14-templating-and-other-outputs/building-data-processors.md)
 
-### 15 Software Quality
+</details>
+
+<details>
+<summary> 15 Software Quality</summary>
 
 1. #### [Performance analysis for custom code](notes/15-software-quality/performance-analysis-for-custom-code.md)
 
 2. #### [PHP Code Style Tools](notes/15-software-quality/php-code-style-tools.md)
 
 3. #### [Static code analysis](notes/15-software-quality/static-code-analysis.md)
+
+</details>
 
 ## Under the Code folder
 
